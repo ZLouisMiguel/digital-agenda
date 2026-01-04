@@ -8,7 +8,7 @@ _Digital Agenda_ is a chill study tracker for students. It helps you **plan and 
 
 
 
-For now, the repo just has a **simple table of your weekly study plan**. School’s been rough (┬┬﹏┬┬), but don’t worry later it’ll grow into the **full Digital Agenda App**.
+For now, the repo just has a **simple table of my weekly study plan** because school’s been rough (┬┬﹏┬┬), but don’t worry later it’ll grow into the **full Digital Agenda App**.
 
 ## Future App Features
 
